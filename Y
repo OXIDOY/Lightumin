@@ -1,0 +1,22 @@
+LIGHTUM - мульти тул для докса, имеет обширный функционал.
+----------------------------------------------------
+Установка на термукс:
+----------------------------------------------------
+pkg upgrade 
+
+pkg update 
+
+pkg install python3 
+
+pkg install git
+
+pip3 install faker
+
+pip3 install bs4
+
+git clone https://github.com/vpnmylove/Lightumin
+
+cd Lightumin
+
+python3 Lightumin.py
+------------------------------------------
